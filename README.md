@@ -100,27 +100,31 @@ I'm a **Full-Stack Developer** and fresh **CSE Graduate** from **Daffodil Intern
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdShamim5669&theme=tokyonight" width="95%"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdShamim5669&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="175"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShamim5669&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="175"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdShamim5669&theme=tokyonight" height="175"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdShamim5669&theme=tokyonight" height="175"/>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdShamim5669&theme=tokyonight" height="175"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdShamim5669&theme=tokyonight&utcOffset=6" height="175"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=MdShamim5669&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175"/>
-
+  <img src="https://streak-stats.demolab.com/?user=MdShamim5669&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MdShamim5669&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=MdShamim5669&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </div>
 
 ---
