@@ -101,20 +101,25 @@ I'm a **Full-Stack Developer** and fresh **CSE Graduate** from **Daffodil Intern
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdShamim5669&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShamim5669&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MdShamim5669&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdShamim5669&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="175"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MdShamim5669&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=MdShamim5669&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="175"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShamim5669&bg_color=1a1b27&color=628fdb&line=6C63FF&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MdShamim5669&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 
 </div>
 
