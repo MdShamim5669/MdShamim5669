@@ -108,13 +108,13 @@ I'm a **Full-Stack Developer** and fresh **CSE Graduate** from **Daffodil Intern
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MdShamim5669&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=MdShamim5669&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShamim5669&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShamim5669&bg_color=1a1b27&color=628fdb&line=6C63FF&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
